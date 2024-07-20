@@ -5,7 +5,7 @@ using django , drf authentication
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone - https://github.com/Ainy07/Django-Blog-Application/
     cd blog_project
     ```
 
